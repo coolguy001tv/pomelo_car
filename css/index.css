@@ -1,0 +1,26 @@
+.brand{
+    line-height: 3rem;
+    padding-left: 1rem;
+}
+.input_left{
+    background: url("../images/input_left.png") no-repeat;
+    height: 70px;
+    width: 30px;
+}
+.input_center{
+    background: url("../images/input_center.png") repeat-x;
+    height: 70px;
+    width: 100px;
+}
+.input_right{
+    background: url("../images/input_right.png") no-repeat;
+    height: 70px;
+    width: 60px;
+}
+.search_div div{
+    float: left;
+}
+#search{
+    height: 35px;
+    margin-top: 18px;
+}
