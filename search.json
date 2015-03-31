@@ -1,0 +1,12 @@
+{
+    "ack":1001,
+    "list":
+        [{"carName":"我的车",
+            "carLogo":"images/car_logo/guangqi_0_1.jpg",
+            "id":1
+    },
+        {"carName":"我的车2",
+            "carLogo":"images/car_logo/guangqi_0_1.jpg",
+            "id":2
+        }]
+}
